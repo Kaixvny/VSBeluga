@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				-170
+			],
+			"loop": true,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": "beluga idle"
+		},
+		{
+			"offsets": [
+				-75,
+				-86
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beluga left"
+		},
+		{
+			"offsets": [
+				-29,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beluga up"
+		},
+		{
+			"offsets": [
+				-80,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beluga down"
+		},
+		{
+			"offsets": [
+				-68,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beluga right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beluga",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "beluga",
+	"flip_x": true,
+	"healthbar_colors": [
+		189,
+		176,
+		129
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
